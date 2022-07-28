@@ -1,6 +1,6 @@
 .imgsize img{
     filter: brightness(40%);
-    height: 500px;
+    height: 600px;
 }
 .button-color{
     background-color: #289BDE;
